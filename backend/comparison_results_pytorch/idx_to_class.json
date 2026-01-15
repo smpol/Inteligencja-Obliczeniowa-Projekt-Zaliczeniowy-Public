@@ -1,0 +1,9 @@
+{
+  "0": "battery",
+  "1": "biological",
+  "2": "glass",
+  "3": "metal_plastic",
+  "4": "paper",
+  "5": "textile",
+  "6": "trash"
+}
